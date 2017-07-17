@@ -1,1 +1,1 @@
-You must enter CLOUD_VISION_API_KEY. 
+You must enter Google cloud vision api key Constants file. 
